@@ -1,0 +1,3 @@
+/Users/guangyao/Workspace/thread_test/build.tmp/CMakeFiles/rebuild_cache.dir
+/Users/guangyao/Workspace/thread_test/build.tmp/CMakeFiles/edit_cache.dir
+/Users/guangyao/Workspace/thread_test/build.tmp/CMakeFiles/test.dir
